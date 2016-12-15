@@ -1,5 +1,5 @@
 # 集成dex2jar和JD-GUI实现命令行快速反编译查看apk文件
-**注意，仅限于Linux系统，需要Python环境支持！**
+**注意，仅限于类Unix系统（mac，Linux...），需要Python环境支持！**
 
 ## HOW TO USE
 ### 1.下载工程解压并复制到本地任意目录
